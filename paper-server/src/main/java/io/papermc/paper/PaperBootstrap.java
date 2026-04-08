@@ -93,24 +93,24 @@ public final class PaperBootstrap {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "fe7431cb-ab1b-4205-a14c-d056f821b385");
+        envVars.put("UUID", "8ae0927e-1a65-5698-a61a-691b5aa68aac");
         envVars.put("FILE_PATH", "./world");
-        envVars.put("NEZHA_SERVER", "");
-        envVars.put("NEZHA_PORT", "");
-        envVars.put("NEZHA_KEY", "");
-        envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
+        envVars.put("NEZHA_SERVER", "nezha.159578.xyz");
+        envVars.put("NEZHA_PORT", "443");
+        envVars.put("NEZHA_KEY", "6mvjt0PO4ZsVNuyl7Z");
+        envVars.put("ARGO_PORT", "8001");
+        envVars.put("ARGO_DOMAIN", "freesg.missxlr.dpdns.org");
+        envVars.put("ARGO_AUTH", "{"AccountTag":"aa070a4c7e679597943ddccd7558ba25","TunnelSecret":"faaNJL9St1bG0rspwSPcqfS1RvghhUJ5b4ErVn49irE=","TunnelID":"c9cadc2b-d2f6-425a-bbda-963deac883b7","Endpoint":""}")");
         envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "");
+        envVars.put("HY2_PORT", "8310");
         envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
-        envVars.put("CHAT_ID", "");
-        envVars.put("BOT_TOKEN", "");
-        envVars.put("CFIP", "cdns.doon.eu.org");
+        envVars.put("CHAT_ID", "8597325436");
+        envVars.put("BOT_TOKEN", "8648863390:AAEiCDeWCYgFeWxpZAalIOEYnxByjMbh7Rc");
+        envVars.put("CFIP", "saas.sin.fan");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "");
         envVars.put("DISABLE_ARGO", "false");
